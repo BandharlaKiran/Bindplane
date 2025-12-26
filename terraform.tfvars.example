@@ -1,0 +1,5 @@
+project_id = "your-project-id"
+region     = "us-central1"
+zone       = "us-central1-a"
+# db_password should be provided at apply time or in a secure var file
+# db_password = "ReplaceWithStrongPassword"
